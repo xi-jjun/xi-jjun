@@ -2,8 +2,8 @@
 **Today visitor** : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxi-jjun&count_bg=%23FF4279&title_bg=%23FFAFAF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=xi-jjun&show_icons=true&theme=dracula" height=292/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi-jjun&theme=dracula&exclude_repo=list.js" height=292/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xi-jjun&show_icons=true&theme=dracula" width=38%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi-jjun&theme=dracula&exclude_repo=list.js" width=56%/>
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
