@@ -13,22 +13,7 @@
 <br>
 
 ## Introduce myself
-```kotlin
-val me = Person(
-    name = "Kim Jae Jun",
-    profession = "Backend Developer",
-    hobbies = listOf("blog posting", "side project", "playing overwatch2"),
-    favoriteLanguages = listOf("Kotlin", "Ruby", "Java"),
-    isTenacious = true
-)
-
-with(me) {
-  println("라이브러리 소스 코드 뜯어보는 것을 즐깁니다.")
-  println("비즈니스 로직을 개발로 구체화하여 풀어가는 과정에서 즐거움을 얻습니다!")
-  println("저는 개발자란 단순 코드 작업이 아닌, '제품(product)'를 만들어야 한다고 생각합니다.")
-}
-```
-
+개발이 조아요. 재뮜읍니다.
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawowns000)](https://solved.ac/rlawowns000/) -->
 
